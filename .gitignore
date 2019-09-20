@@ -1,0 +1,12 @@
+.vscode/
+node_modules/
+*.vsix
+
+buildAndReleaseTask/*.js
+buildAndReleaseTask/*.js.map
+buildAndReleaseTask/tests/*.js
+buildAndReleaseTask/tests/*.js.map
+
+.taskkey
+
+*secret.json
